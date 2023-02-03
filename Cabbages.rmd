@@ -56,6 +56,11 @@ The mean of C52 is 64.4 which is significantly higher than C39 which is 51.5 The
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+
+If there was no difference in the C39 and C52 then the p-value would be 0.00000003405. Since the p-value is so small, it almost ensures that the C52 method produces more Vitamin C than the C39 method. 
 
 # Discussion and Conclusion
 
