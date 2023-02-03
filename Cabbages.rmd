@@ -65,3 +65,6 @@ If there was no difference in the C39 and C52 then the p-value would be 0.000000
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+After looking at the data we used,the boxplot, numerical and inferential results can allow us to conclude that the C52 and C39 values are different. We understand that C52 has a significantly higher amount of Vitamin C than that of C39. This was shown by the boxplot since the bottom of the C52 box was higher than the box for C39. Looking at the numerical box we got an average(mean) value that was higher for C52 rather than C39. The inferential results told us that there is a difference between the C52 and C39 because th chance of there being no difference was 0.00000003405 which is nearly impossible to occur. 
+
