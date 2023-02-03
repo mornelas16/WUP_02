@@ -39,11 +39,18 @@ veggy <- cabbages
 boxplot(VitC~Cult,data=veggy)
 ```
 
-The box plot from the data shows that the C52 has a significantly larger amount of Vitamin C than that of C32. I can tell because the bottom of the box for C52 is above the top of the box for C32. 
+The box plot from the data shows that the C52 has a significantly larger amount of Vitamin C than that of C39. I can tell because the bottom of the box for C52 is above the top of the box for C39. 
 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The mean of C52 is 64.4 which is significantly higher than C39 which is 51.5 The max values from the two also have a significant gap with C52 a value of 84 and C39 with a value of 68. 
+
 
 ## Inferential Results
 
